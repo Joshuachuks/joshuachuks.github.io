@@ -13,3 +13,7 @@ window.addEventListener('resize', function() {
         img.style.height = 'auto';
     });
 });
+window.addEventListener('resize', function() {
+    const content = document.getElementById('content');
+    content.style.width = window.innerWidth + 'px';
+});
