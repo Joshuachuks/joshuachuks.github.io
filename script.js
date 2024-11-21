@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 window.addEventListener('resize', function() {
-    const images = document.querySelectorAll('img');
+    const images = document.querySelectorAll('mobile-img');
     images.forEach(img => {
         img.style.width = '100%';
         img.style.height = 'auto';
