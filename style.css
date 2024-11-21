@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #262A4A;
+    background-color: #4a3126;
     padding: 20px 0;
     position: relative;
 }
@@ -130,14 +130,14 @@ section ul li {
 
 section ul li a {
     text-decoration: none;
-    color: #1DAEEF;
+    color: #2b1def;
     font-weight: bold;
 }
 
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #262A4A;
+    background-color: #4a3126;
     color: #fff;
 }
 
@@ -178,7 +178,7 @@ footer {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #854937;
+        background-color: #262A4A;
         display: none; /* Hide menu by default */
     }
 
