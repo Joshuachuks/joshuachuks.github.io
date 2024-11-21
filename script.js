@@ -6,3 +6,10 @@ document.addEventListener("DOMContentLoaded", function() {
         navLinks.classList.toggle('showing');
     });
 });
+window.addEventListener('resize', function() {
+    const images = document.querySelectorAll('img');
+    images.forEach(img => {
+        img.style.width = '100%';
+        img.style.height = 'auto';
+    });
+});
