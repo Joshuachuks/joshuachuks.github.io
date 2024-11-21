@@ -98,7 +98,7 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 10px;
 }
 
 section {
@@ -108,7 +108,7 @@ section {
 
 section h2 {
     font-size: 2rem;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -178,7 +178,7 @@ footer {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #262A4A;
+        background-color: #4a3126;
         display: none; /* Hide menu by default */
     }
 
