@@ -11,13 +11,13 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
     font-size: 1rem;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 1.1;
     color: #333;
     background-color: #fff;
 }
 
 header {
-    background-color: #4a3126;
+    background-color: #1b5e20;
     padding: 20px 0;
     position: relative;
 }
@@ -58,9 +58,9 @@ nav ul li a {
 
 /* Hero Section */
 .hero {
-    background: url('unr.jpg') no-repeat center center/cover;
-    color: #fff;
-    padding: 100px 20px;
+    background: url('jclogo.jpg') no-repeat center center/cover;
+    color: #1b5e20;
+    padding: 80px 10px;
 }
 
 .hero-content {
@@ -76,7 +76,7 @@ nav ul li a {
     object-fit: cover;
     object-position: top; /* Adjust to show more of the head */
     margin-right: 20px;
-    border: 5px solid #fff; /* Add white border */
+    border: 5px solid #1b5e20; /* Add white border */
 }
 
 .hero-text {
@@ -85,7 +85,7 @@ nav ul li a {
 
 .hero h1,
 .hero p {
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add black outline */
+    text-shadow: 2px 2px 4px rgba(250, 248, 248, 0.7); /* Add green outline */
 }
 
 .hero h1 {
@@ -130,15 +130,15 @@ section ul li {
 
 section ul li a {
     text-decoration: none;
-    color: #2b1def;
+    color: #3228b9;
     font-weight: bold;
 }
 
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #4a3126;
-    color: #fff;
+    background-color: #cbe6c9;
+    color: #1b5e20;
 }
 
 /* Responsive Styles */
